@@ -1,5 +1,3 @@
-package netflix;
-
 import static org.junit.Assert.assertEquals;
 
 import java.time.LocalDate;
